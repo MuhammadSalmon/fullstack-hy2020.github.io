@@ -399,7 +399,7 @@ The <i>Elements</i> tab of the console can be used to change the styles of the e
 
 ![developer tools elements tab showing CSS rules applied to container class](../../images/0/18e.png)
 
-Changes made on the console will not be permanent. If you want to make lasting changes, they must be saved to the CSS style sheet on the server.
+Changes made on the console will not be permanent. If you want to make lasting changes, they must be saved to the CSS style sheet on the server.  
 
 ### Loading a page containing JavaScript - review
 
